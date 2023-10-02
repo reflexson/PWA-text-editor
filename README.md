@@ -44,6 +44,10 @@ npm start
 url for this repo is
 https://github.com/reflexson/PWA-text-editor
 
+the project is deployed to heroku at
+
+https://gentle-brushlands-54848-f141e8eebf6d.herokuapp.com/
+
 
 ## License
 
